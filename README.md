@@ -14,3 +14,5 @@
   - git push
 - We have learned how to
   - git fetch/pull
+- We have learned how to 
+  - git clone (link to github repo)
