@@ -1,7 +1,7 @@
 # my_project
 ## DCI learning git project
 - We have learned how to
-  - *git add*
+  - +git add+
 - We have learned how to
   'git commit'
 - We have learned how to
