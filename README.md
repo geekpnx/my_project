@@ -1,16 +1,16 @@
 # my_project
 ## DCI learning git project
 - We have learned how to
-  - ' git add
+  - git add
 - We have learned how to
-  'git commit'
+  - git commit
 - We have learned how to
-  'git merge'
+  - git merge
 - We have learned how to
-  'git branch'  
+  - git branch  
 - We have learned how to
-  'git switch' 
+  - git switch
 - We have learned how to
-  'git push'
+  - git push
 - We have learned how to
-  'git fetch/pull'
+  - git fetch/pull
