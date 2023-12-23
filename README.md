@@ -8,6 +8,8 @@
   - git merge
 - We have learned how to
   - git branch  
+- We have learned how to 
+  - git branch -d (to delete 'branch')
 - We have learned how to
   - git switch
 - We have learned how to
